@@ -9,3 +9,4 @@ this paper is ’GoogLeNet’ and ’Alexnet’. With the GPU acceleration paral
 a lot of time. With this method, algorithm can gives a reliable recognition result with only RGB input. The result is only verified in single picture level.
 
 ![Classification result](https://github.com/Fred159/Robotics-term2-P1-Robot-inference/blob/master/Project%20figures/alexnet_scissors.jpg)
+![DAQ using d435](https://github.com/Fred159/Robotics-term2-P1-Robot-inference/blob/master/Project%20figures/DAQ_step.jpg)
